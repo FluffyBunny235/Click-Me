@@ -1,0 +1,31 @@
+body {
+  background-color: #6A5D7B;
+}
+.clickme {
+  width: 120px;
+  height: 60px;
+  border: 3px solid #749C75;
+  background-color: #E9D985;
+  border-radius: 8px;
+  color: #749C75;
+  cursor: pointer;
+  font-weight: bold;
+}
+.buttondiv {
+  margin: auto;
+  width: 130px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hovered {
+  width: 120px;
+  height: 60px;
+  border: 3px solid #E9D985;
+  background-color: #749C75;
+  border-radius: 8px;
+  color: #E9D985;
+  cursor: pointer;
+  font-weight: bold;
+}
